@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Aleksandr
-#### I am a beginner web developer
+#### I am from Moscow. 
+#### I've been always trying to find my trueself by working in different spheres, however all the attempts didn't reach the aim. Having finished a web-development course I decided to give taking freelance orders a go and I really enjoyed it! I always finish my tasks to the end and try to see eye to eye with everybody. 
+#### I am keen on good movies, particularly science fiction ones. I love to go longboarding and listen to my favourite music in my spare time. I enjoy tracks of 'Antoha MC' and 'Hleb'.
 
 ##### Skills: 
 
